@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# Database
+*.db
+*.sqlite3
+
+# Generated Data
+bookings.json
+users.json
+qr_codes/
+
+# Logs
+*.log
+
+# Build Files
+build/
+dist/
+
+# OS Files
+.DS_Store
+Thumbs.db
