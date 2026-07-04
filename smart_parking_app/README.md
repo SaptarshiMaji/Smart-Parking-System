@@ -1,17 +1,58 @@
-# smart_parking_app
+# 📱 Smart Parking Mobile Application
 
-A new Flutter project.
+This folder contains the **Flutter mobile application** for the Smart Parking System.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- User Registration & Login
+- Real-Time Parking Dashboard
+- Parking Slot Booking
+- QR Code Generation
+- Booking History
+- User Profile Management
+- REST API Integration
+- Responsive UI
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technology Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- REST API
+- Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Project Structure
+
+```
+lib/
+├── constants/
+├── screens/
+├── services/
+└── main.dart
+```
+
+## 📱 Main Screens
+
+- Splash Screen
+- Login
+- Dashboard
+- Book Parking
+- QR Code
+- Profile
+
+## ▶️ Run the Application
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+## 📌 Note
+
+The application communicates with the Flask backend through REST APIs to manage users, bookings, parking availability, and QR authentication.
