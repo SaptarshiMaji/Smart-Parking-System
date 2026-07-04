@@ -386,7 +386,7 @@ Final Year Project
 
 🔗 GitHub: https://github.com/SaptarshiMaji
 
-🔗 LinkedIn: www.linkedin.com/in/saptarshi-maji-b3536627b
+🔗 LinkedIn: https://www.linkedin.com/in/saptarshi-maji-b3536627b/
 
 ---
 
