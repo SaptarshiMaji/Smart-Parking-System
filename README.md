@@ -1,6 +1,6 @@
 # 🚗 Smart Parking System
 
-> **An IoT-based Smart Parking Management System with Flutter, Flask, ESP32, ESP32-CAM, QR Authentication, Real-Time Slot Monitoring, and Machine Learning-based Vehicle Detection.**
+> **An IoT-based Smart Parking Management System with Flutter, Flask, ESP32, ESP32-CAM, QR Authentication, Real-Time Slot Monitoring.**
 
 <p align="center">
 
@@ -11,7 +11,6 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 ![ESP32-CAM](https://img.shields.io/badge/ESP32--CAM-0A84FF?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-00B894?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 
 </p>
 
@@ -19,7 +18,7 @@
 
 ## 📖 Project Overview
 
-The **Smart Parking System** is an IoT-enabled parking management solution designed to reduce parking congestion and improve the overall parking experience. The system combines **Flutter**, **Flask**, **ESP32**, **ESP32-CAM**, **PostgreSQL**, and **Machine Learning** to provide secure QR-based authentication, real-time parking slot monitoring, and automated gate control.
+The **Smart Parking System** is an IoT-enabled parking management solution designed to reduce parking congestion and improve the overall parking experience. The system combines **Flutter**, **Flask**, **ESP32**, **ESP32-CAM**, **PostgreSQL** - to provide secure QR-based authentication, real-time parking slot monitoring, and automated gate control.
 
 The mobile application allows users to view parking availability, book slots, generate QR codes, and monitor their parking status. The backend communicates with IoT hardware to manage parking operations, while the ESP32 and ESP32-CAM handle sensor data, QR code verification, and automated entry/exit gates.
 
@@ -37,7 +36,6 @@ The project was developed as a **Final Year B.Tech Project** to demonstrate the 
 - 📊 **Live Parking Availability** displayed on both the mobile app and LCD.
 - 🌐 **Flask REST API Backend** for communication between the mobile app and hardware.
 - 🗄️ **PostgreSQL Database** for storing users, bookings, parking status, and history.
-- 🤖 **Machine Learning-Based Vehicle Detection** to monitor parking slots and distinguish vehicles from other objects.
 - 📅 **Booking History & User Management** with secure login and registration.
 - ⚡ **IoT Integration** enabling seamless communication between hardware and software components.
 
@@ -83,7 +81,6 @@ The Smart Parking System combines mobile application development, backend servic
 | Arduino IDE | Programming ESP32 and ESP32-CAM |
 | Visual Studio Code | Development environment |
 | Git & GitHub | Version control and project management |
-| Machine Learning | Vehicle detection and parking slot monitoring |
 
 ### 🛠️ Development Tools
 
