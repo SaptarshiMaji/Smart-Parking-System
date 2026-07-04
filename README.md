@@ -65,8 +65,6 @@ The hardware prototype integrates IoT sensors, microcontrollers, and actuators t
 
 ---
 
----
-
 ## 🔌 Circuit Diagram
 
 The following circuit diagram illustrates the hardware connections of the Smart Parking System, including the ESP32 DevKit, ESP32-CAM, IR sensors, servo motors, LCD display, LEDs, and power supply.
