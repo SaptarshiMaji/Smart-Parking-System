@@ -451,7 +451,7 @@ class _ParkingDetailsScreenState
 
                   DropdownButtonFormField<String>(
 
-                    value:
+                    initialValue:
                         selectedVehicleType,
 
                     dropdownColor:

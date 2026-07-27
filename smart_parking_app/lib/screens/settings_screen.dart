@@ -164,7 +164,7 @@ class _SettingsScreenState
 
         onChanged: onChanged,
 
-        activeColor:
+        activeThumbColor:
             const Color(0xFF38BDF8),
 
         title: Text(
